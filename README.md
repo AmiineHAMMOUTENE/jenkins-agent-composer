@@ -1,6 +1,6 @@
 Documentation of the base image : https://hub.docker.com/r/jenkins/inbound-agent
 
-## How to run the project
+## How to run the project :
 
 1. Creer le container de l'agent :
 
